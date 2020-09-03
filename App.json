@@ -1,0 +1,16 @@
+{
+    "expo": {
+     "name": "Apollyon",
+     "icon": "./assets/icon.png",
+     "version": "1.0.0",
+     "slug": "apollyon",
+     "ios": {
+       "bundleIdentifier": "com.chgk-apollyon.apollyon",
+       "buildNumber": "1.0.0"
+     },
+     "android": {
+       "package": "com.chgk-apollyon.apollyon",
+       "versionCode": 1
+     }
+    }
+  }
